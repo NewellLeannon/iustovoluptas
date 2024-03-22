@@ -1,0 +1,28 @@
+{
+  "name": "iustovoluptas",
+  "version": "1.6.0",
+  "description": "Simple JS framework for node.js",
+  "keywords": [
+    "itaque",
+    "node"
+  ],
+  "author": "JaclynWaters",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NewellLeannon/iustovoluptas.git"
+  },
+  "dependencies": {
+    "async": "0.2.x",
+    "quisodio": "^1.0.0",
+    "should": "0.6.x",
+    "sintqui": "^1.0.0",
+    "temporerecusandae": "^1.0.0"
+  },
+  "main": "./lib/fwk",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "bugs": {
+    "url": "https://github.com/NewellLeannon/iustovoluptas.git/issues"
+  }
+}
